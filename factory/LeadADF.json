@@ -1,0 +1,9 @@
+{
+	"name": "LeadADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7ecdc2d7-3d8c-4276-8d20-04c950eff9bb",
+		"tenantId": "504f44b4-a70c-48b0-a201-e9b9e97a88db"
+	}
+}
